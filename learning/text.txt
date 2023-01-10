@@ -1,0 +1,7 @@
+up-to-date AND working directory clean
+Untracked files: ...
+Changes not staged for commit - modified:
+Changes to be committed:
+Your branch is ahead of 'origin/master' by ... commits.
+Unmerged paths: ... both modified
+fatal: Not a git repository
