@@ -1,0 +1,143 @@
+Script started on 2023-01-05 18:31:38+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;tech41@tech41-TUF-GAMING-FX504GD-FX80GD: ~[01;32mtech41@tech41-TUF-GAMING-FX504GD-FX80GD[00m:[01;34m~[00m$ histroy
+histroy: command not found
+]0;tech41@tech41-TUF-GAMING-FX504GD-FX80GD: ~[01;32mtech41@tech41-TUF-GAMING-FX504GD-FX80GD[00m:[01;34m~[00m$ ^C
+]0;tech41@tech41-TUF-GAMING-FX504GD-FX80GD: ~[01;32mtech41@tech41-TUF-GAMING-FX504GD-FX80GD[00m:[01;34m~[00m$ sudo apt install vim[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kho[K[Khistroy
+histroy: command not found
+]0;tech41@tech41-TUF-GAMING-FX504GD-FX80GD: ~[01;32mtech41@tech41-TUF-GAMING-FX504GD-FX80GD[00m:[01;34m~[00m$ history
+    1  sudo apt update
+    2  sudo apt install brave.brower
+    3  sudo apt install git
+    4  sudo apt update
+    5  19974100
+    6  sudo apt update
+    7  sudo apt upgrade
+    8  git
+    9  sudo apt install git
+   10  exit
+   11  ssh -keygen
+   12  sudo ssh-keygen
+   13  ssh-keygen -b
+   14  ssh-keygen -b 4096
+   15  is -l ~/.ssh
+   16  ls -l ~/.ssh
+   17  cat ~/.ssh/id_rsa.pub
+   18  ssh root@172.105.10.184
+   19  ssh root
+   20  git status
+   21  git ststus
+   22  git init
+   23  exit
+   24  git --version
+   25  git -version
+   26  git --version
+   27  git config
+   28  git config --Avinashh41
+   29  exit
+   30  git config--global "Avinash41
+   31  exit
+   32  git config --global "Avinash41"
+   33  exit
+   34  git --version
+   35  git config --global user.name "FIRST_NAME LAST_NAME"
+   36  git config --global user.name "Avinashh41
+   37  git config --global user.name "Avinashh41"
+   38  git init
+   39  exit
+   40  git init
+   41  git status
+   42  git add
+   43  exit
+   44  git add
+   45  git fetch origin
+   46  git --version
+   47  git config --global user.name "Avinash41"
+   48  git init
+   49  git status
+   50  git add
+   51  git log
+   52  git config
+   53  exit
+   54  git config --global user.name "Avinashh41"
+   55  git config --user.email "tech.41@fotografik.in"
+   56  mkdir test
+   57  ls
+   58  git init
+   59  ls
+   60  cd test
+   61  ls
+   62  cd/
+   63  cd ..
+   64  ls
+   65  git init
+   66  cd test
+   67  git init
+   68  ls
+   69  cd testproject
+   70  ls
+   71  git add string.py
+   72  git status
+   73  git commit -m "message"
+   74  ls
+   75  git add poem create.py
+   76  git add 'poem create.py'
+   77  git status
+   78  git show
+   79  git add string.py
+   80  git status
+   81  ls
+   82  cd ..
+   83  ls
+   84  cd test
+   85  cd/
+   86  git slow
+   87  git push
+   88  git push project
+   89  cd test
+   90  ls
+   91  cd test
+   92  cd/
+   93  ls
+   94  cd ..
+   95  ls
+   96  cd home
+   97  ls
+   98  cd ..
+   99  exit
+  100  cd 
+  101  pwd
+  102  history
+  103  exit
+  104  cd ~/.ssh
+  105  ls
+  106  cd
+  107  cat ~/.ssh/id_rsa.pub 
+  108  mkdir newproject
+  109  cd newproject/
+  110  git clone git@github.com:Avinashh41/avinash.git
+  111  cd ./avinash/
+  112  ls
+  113  cat test 
+  114  la
+  115  ls
+  116  vim TEST2
+  117  sudo apt install vim
+  118  vim TEST2
+  119  git status 
+  120  git add .
+  121  git status 
+  122  git commit -m "new test file"
+  123  git push
+  124  clear
+  125  history 
+  126  cd 
+  127  script jan5
+  128  clear
+  129  cat jan5 
+  130  exit
+  131  histroy
+  132  history
+]0;tech41@tech41-TUF-GAMING-FX504GD-FX80GD: ~[01;32mtech41@tech41-TUF-GAMING-FX504GD-FX80GD[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2023-01-05 18:32:36+05:30 [COMMAND_EXIT_CODE="0"]
