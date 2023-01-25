@@ -1,1 +1,25 @@
-file
+# Modify string
+# .upper,.lower, .replace
+a = 'hello world'
+print (a.upper())
+print (a.lower())
+print (a.replace("hello", "Print is "))
+# concalenate strings
+a = "World"
+b = "print"
+c = a+" "+b
+print(c)
+# format
+price = 10
+qty = 5
+count = 58
+txt = "list total{},q{},c{}"
+print (txt.format(price,qty,count))
+
+# escape strings
+a = "python is\n good"
+print (a)
+
+x = True
+print (type(x))
+
