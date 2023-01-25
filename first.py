@@ -1,5 +1,3 @@
-a = 10
-b = 10
-print (int(a))
-print (a+b)
-
+a = 25
+b = 20
+print(a+b)
